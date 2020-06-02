@@ -1,0 +1,2 @@
+# googlecodelabs-calculator
+The project implements a simple calculator,which helps you do operations like addition,subtraction,multiplication,division and percentage. Another feature included in the calculator is the use of displaying history of calculation made which can accesed using Maps,which helps the calculations in order. All the operations are included in a sealed class,which helps it keep restricted and provide features similar to enum,the difference being it supports different types. The calculation in general is conducted in another class.
